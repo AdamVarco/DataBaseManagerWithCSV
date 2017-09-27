@@ -126,7 +126,7 @@ public class DataBaseManager {
     
 	public static void main(String [] args) {
 			//PrintCSV("u2", "b3", "k4", "50k");
-		SearchDataBase("fart");
+		SearchDataBase("uuuuu");
 	}
 
 }
